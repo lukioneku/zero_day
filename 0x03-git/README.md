@@ -1,1 +1,1 @@
-Getting started with git, aw yeah!
+Getting started, updating commit
